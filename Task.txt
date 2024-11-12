@@ -1,0 +1,30 @@
+React Project: Task Manager
+
+Objective: Build a Task Manager app using React and JSON Server.
+
+Folder Structure:
+components/ and pages/ folders in your src/ directory.
+
+JSON Server Setup:
+Use JSON Server for storing and fetching tasks with fields: id, title, description.
+
+Components:
+App: Main component.
+TaskList: Displays tasks with delete buttons.
+TaskForm: Form to add new tasks.
+
+Functionality:
+Add Task: Form to submit new tasks.
+View Tasks: Display tasks from JSON Server.
+Delete Task: Remove tasks from JSON Server.
+State Lifting: Manage tasks state in App, pass to TaskList and TaskForm.
+Nested Components: Implement nested components for task display and form.
+
+API Fetching:
+Use axios or Fetch API for tasks operations.
+
+Deliverables:
+React app with listed functionalities.
+Instructions for running JSON Server and the React app.
+
+Submit your task today itself: Ensure your task is submitted and the project is completed by the end of the day.
